@@ -20,7 +20,7 @@ main(){
     double indiceMasaC = (datos["Peso"] / (datos["Altura"]*datos["Altura"]));  // imc = peso / estatura^2
     print("Te llamas ${datos["Nombre"]}, mides ${datos["Altura"]}m, pesas ${datos["Peso"]}kg y tu IMC es $indiceMasaC");
 
-
+//si
   
 
 
